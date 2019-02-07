@@ -36,6 +36,7 @@
 #include <trace/events/cpuhp.h>
 
 #include "smpboot.h"
+#define HAMZA 0
 
 /**
  * cpuhp_cpu_state - Per cpu hotplug state storage
